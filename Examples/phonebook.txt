@@ -1,0 +1,5 @@
+Ahmet,Keleş,05511361085
+Semih,Aksoy,05511367576
+Bedirhan,Özen,05331962349
+Mert,Günhan,05419498192
+Said,Özdemir,05523226525

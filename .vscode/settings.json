@@ -1,0 +1,23 @@
+{
+    "python.analysis.extraPaths": [
+        "./Mysql/2_"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "sales",
+            "username": "root",
+            "password": "root",
+            "connectionTimeout": 30
+        }
+    ]
+}

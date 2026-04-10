@@ -1,0 +1,6 @@
+<yeni_meyve>
+nana
+apple
+orange
+kiwi
+mango
